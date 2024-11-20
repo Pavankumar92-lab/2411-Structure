@@ -1,0 +1,76 @@
+*{
+    box-sizing: border-box;
+    padding:0px;
+    margin:0px;
+}
+
+
+
+.bharatHeading{
+  background-color: green;
+  display:inline-block;
+}
+#bharat2{
+/* padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px; */
+    padding:50px;
+    border:20px dotted orange;
+} 
+#bharat3{
+    padding:50px;
+    border:20px dotted maroon;
+    border-style:dotted dashed solid double;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    margin-bottom:40px;
+}
+#bharat4{
+    padding:50px;
+    border:20px dashed purple;
+
+}
+#bharat5{
+    padding:50px;
+    border:20px solid blueviolet;
+}
+#bharat6{
+    padding:50px;
+    border:20px double burlywood;
+}
+#bharat7{
+    padding:50px;
+    border:20px groove bisque;
+}
+#bharat8{
+    padding:50px;
+    border:20px ridge greenyellow;
+}
+#bharat9{
+    padding:50px;
+    border: 20px inset violet;
+}
+#bharat10{
+    padding:50px;
+    border:20px outset gold;
+}
+.player{
+    width:250px;
+    border: 20px ridge green;
+    margin:30px;
+}
+#ms1{
+    width:250px;
+    border:20px ridge green;
+    margin: 30px;
+    padding:50px;
+    box-sizing: content-box;
+}
+#ms2{
+    width:250px;
+    border:20px ridge green;
+    padding:50px;
+    box-sizing: border-box;
+}
